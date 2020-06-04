@@ -1,1 +1,1 @@
-<a type="application/pdf" href="lab4.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
+Pytorch implementation of English spelling corrector based on Sequence-to-Sequence Recurrent Neural Network.
