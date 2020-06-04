@@ -1,1 +1,1 @@
-<a href="lab4.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
+<a type="application/pdf" href="lab4.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
